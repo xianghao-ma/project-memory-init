@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目长期记忆初始化"
+  short_description: "初始化项目规则、长期记忆、独立报告目录及按日期和目标归档的结果图"
+  default_prompt: "使用 $project-memory-init 为当前项目初始化长期记忆、docs/reports 和结果图归档结构，保留已有内容并补录可核实的项目状态。"
